@@ -45,7 +45,7 @@ Information
 * Program name : Geslite
 * Program version : 1.0
 * Description : Controlling Arduino components using gestures to automate the devices around you.
-* Creator(s) : This project has been worked by Team 15 at Hack Umass 2015. At the University of Massachussets Amherst. Contributing authors for this project include: Monark Modi; Uday Savaria; Punith Kumar and Nirman Dave.
+* Creator(s) : This project has been worked by Team 15 at Hack Umass 2015. At the University of Massachussets Amherst. Contributing authors for this project include: Monark Modi, Uday Savaria, Punith Kumar and Nirman Dave.
 
 Licensing
 =======
