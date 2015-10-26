@@ -1,0 +1,26 @@
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\bin\Debug\Geslite.exe.config
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\bin\Debug\Geslite.exe
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\bin\Debug\Geslite.pdb
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\bin\Debug\Geslite.xml
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.vbprojResolveAssemblyReference.cache
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.Form1.resources
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.Resources.resources
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.vbproj.GenerateResource.Cache
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.exe
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.xml
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.pdb
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.Form2.resources
+c:\users\ud12ay\documents\visual studio 2015\Projects\Geslite\Geslite\obj\Debug\Geslite.Form3.resources
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\bin\Debug\Geslite.exe.config
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.exe
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.xml
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.pdb
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\bin\Debug\Geslite.exe
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\bin\Debug\Geslite.pdb
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\bin\Debug\Geslite.xml
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.vbprojResolveAssemblyReference.cache
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.Form1.resources
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.Form2.resources
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.Form3.resources
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.Resources.resources
+C:\Users\Ud12ay\Desktop\Geslite\Geslite\obj\Debug\Geslite.vbproj.GenerateResource.Cache
