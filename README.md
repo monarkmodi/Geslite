@@ -32,7 +32,7 @@ The Winkbot mode allows you to control the devices around you through your eye m
 
 ![alt tag](http://2.bp.blogspot.com/-VL1HLFgj_xY/Viy6g3rvLCI/AAAAAAAACP0/Gh741Ah-KHA/s1600/12177326_10206197166341154_737826301_o.jpg)
 
-The second thing you'll encounter will be a gesture based control system, also known as Wavebot. This allows you to conterol the devices around you through natural hand gestures.
+The second thing you'll encounter will be a gesture based control system, also known as Wavebot. This allows you to control the devices around you through natural hand gestures.
 
 ![alt tag](http://1.bp.blogspot.com/--f3BV3p2inI/Viy7Ef1obkI/AAAAAAAACQM/AHt5WFQnrS8/s1600/12176326_10206197175261377_1035686081_o.jpg)
 
