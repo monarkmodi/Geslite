@@ -7,7 +7,7 @@ Everyday we command the devices around us to conduct regular tasks. Press the sw
 
 What if the devices already knew what you want? What if they responded to your mood? What if you didn't have to control them at all! That's exactly what Geslite it about. "Geslite" is a combination of "Gestures" and "Lite"; bringing out a paradigm of integrating gestures into our lives in the most fluid manner possible.
 
-Geslite is a progressive technology based on gesture recognition using Kinect and Arduino, so that the software will automatically understand your mood (based on your facial expression), and your gestures to control every device in your room. This allows you to live in your most natural state. Want to go to bed? Don't worry about the lights, the moment you sleep, the lights go off automatically! Or you wanna swich on a fan but don't want to shout "Hey Alexa", you can just do that with Geslite!
+Geslite is a progressive technology based on gesture recognition using Kinect and Arduino, so that the software will automatically understand your mood (based on your facial expression), and your gestures to control every device in your room. This allows you to live in your most natural state. Want to go to bed? Don't worry about the lights, the moment you sleep, the lights go off automatically! Or you wanna switch on a fan but don't want to shout "Hey Alexa", you can just do that with Geslite!
 
 And, Geslite is open sourced!
 
